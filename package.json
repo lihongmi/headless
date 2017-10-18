@@ -1,0 +1,15 @@
+{
+  "name": "headless",
+  "version": "1.0.0",
+  "description": "* https://github.com/ariya/phantomjs * https://github.com/casperjs/casperjs * https://github.com/laurentj/slimerjs * https://github.com/segmentio/nightmare",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightmare": "^2.10.0"
+  }
+}
